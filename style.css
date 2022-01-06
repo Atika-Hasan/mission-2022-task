@@ -1,0 +1,75 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+}
+body{
+    font-size: 100%;
+}
+.Ami{
+    color: orange;
+}
+.flexible{
+    margin-bottom: 100px;
+    display: flex;
+    margin-left: 100px;
+}
+#now{
+    text-align: center;
+    font-weight: 2000px;
+}
+.width{
+    width: 50%;
+    padding: 10px;
+
+}
+.width img{
+    width:70%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: lightcoral;
+    color:white;
+    font-weight: 900;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top-banner{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.experience-item{
+    width: 40%;
+    padding-left: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+#web-dev{
+    background-color: lightblue;
+}
+#full-stack{
+    background-color: lightpink;
+}
+#backend{
+    background-color: lightyellow;
+}
+footer p{
+    text-align: center;
+}
+#image{
+    height: 150px;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 150px;
+}
+.tumi{
+    color:lightcoral;
+}
+.border{
+    border-left: 5px solid;
+    border-image: linear-gradient(coral,coral);
+    border-image-slice: 1;
+}
